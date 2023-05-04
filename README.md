@@ -10,4 +10,8 @@ Split Words: Split a string into words and store them in a 2D array.
 Remove Punctuation: Remove punctuation marks from a given text.
 Generate Word Tails: Create a series of words based on a specific word and a desired suffix. 
 
-To run the program download all the files and use "make" in the command line to compile the code. Then use "./bin/stringMe filename.txt" to execute the code. Note the user can use ./bin/stringMe filename.txt with different text files just upload the text file to the same directory where the makefile is located in the repository.
+#Compiling the program
+To compile the program download all the files and use "make" in the command line to compile the code. 
+
+#Running the Program
+Then use "./bin/stringMe filename.txt" to execute the code. Note the user can use ./bin/stringMe filename.txt with different text files just upload the text file to the same directory where the makefile is located in the repository.
